@@ -1,0 +1,1 @@
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer-Learn UWP\FotoViewer-Learn UWP\FotoViewer-Learn UWP.csproj;x86
