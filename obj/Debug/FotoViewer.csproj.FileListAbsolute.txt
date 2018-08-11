@@ -1,0 +1,15 @@
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\FotoViewer.csprojResolveAssemblyReference.cache
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\MainWindow.g.cs
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\App.g.cs
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\FotoViewer_MarkupCompile.cache
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\FotoViewer_MarkupCompile.lref
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\bin\Debug\FotoViewer.exe.config
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\bin\Debug\FotoViewer.exe
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\bin\Debug\FotoViewer.pdb
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\MainWindow.baml
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\FotoViewer.g.resources
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\FotoViewer.Properties.Resources.resources
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\FotoViewer.csproj.GenerateResource.cache
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\FotoViewer.csproj.CoreCompileInputs.cache
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\FotoViewer.exe
+C:\Users\dominik\Desktop\informatyka\programowanie\Project C#\FotoViewer\FotoViewer\obj\Debug\FotoViewer.pdb
